@@ -1,4 +1,5 @@
-<img src="{BadgeURLHere}" alt="Header" />
+![Banner Nusantara](img/github-header-banner.png)
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white" alt="NotebookLM" />
